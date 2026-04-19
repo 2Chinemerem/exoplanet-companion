@@ -38,3 +38,6 @@ Every planet a user explores is saved to their personal **Explorer Journal**, po
 **Express + http-proxy-middleware**
 
 ---
+
+**Project Life**
+https://project-p0jrj.vercel.app/
